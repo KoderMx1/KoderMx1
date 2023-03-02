@@ -1,4 +1,4 @@
-Hi, I is student. This is just my stuff ig?
+Hi, I is student. This is just my stuff i guess?
 It's not that cool, you can click away now.
 
 <!---
